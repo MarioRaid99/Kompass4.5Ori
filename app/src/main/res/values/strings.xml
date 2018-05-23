@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">orienteerumisapp</string>
+    <string name="aita">Abi metsas</string>
+    <string name="kompass">Kompass</string>
+    <string name="märgid">märgid</string>
+</resources>
